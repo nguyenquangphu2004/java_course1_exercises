@@ -3,6 +3,7 @@ import java.util.Scanner;
 /**
  * @author Branium Academy
  * @address https://braniumacademy.net/
+ * yes
  */
 
 public class L10Ex1 {
